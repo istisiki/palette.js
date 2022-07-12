@@ -1,6 +1,10 @@
 Colour Palette Generator
 ========================
 
+This is based on [google/palette.js](https://github.com/google/palette.js).
+
+This is an attempt to port this to Typescript. This is still a work in progress.
+
 The palette.js script allows to generate palette colours and was
 intended for use with graphs, charts and cartography.  In default
 setup, it contains [Paul Tol's](http://www.sron.nl/~pault) and
